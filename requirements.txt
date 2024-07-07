@@ -2,4 +2,4 @@ sentence-transformers
 numpy
 chromadb
 fitz
-PyMuPDF
+PyMuPDF 
