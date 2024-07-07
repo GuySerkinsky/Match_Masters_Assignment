@@ -1,5 +1,5 @@
 import chromadb
-import numpy as np 
+import numpy as np  
 
 # client = chromadb.PersistentClient(path="vectordb") 
 

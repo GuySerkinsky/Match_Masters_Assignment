@@ -1,4 +1,4 @@
-import shutil 
+import shutil  
 import textwrap
 import numpy as np
 from utils import fetch_pdf_chunks
